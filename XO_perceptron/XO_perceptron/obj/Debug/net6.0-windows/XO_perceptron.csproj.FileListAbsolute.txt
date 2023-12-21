@@ -1,0 +1,17 @@
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\bin\Debug\net6.0-windows\XO_perceptron.exe
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\bin\Debug\net6.0-windows\XO_perceptron.deps.json
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\bin\Debug\net6.0-windows\XO_perceptron.runtimeconfig.json
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\bin\Debug\net6.0-windows\XO_perceptron.dll
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\bin\Debug\net6.0-windows\XO_perceptron.pdb
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\obj\Debug\net6.0-windows\XO_perceptron.csproj.AssemblyReference.cache
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\obj\Debug\net6.0-windows\XO_perceptron.Form1.resources
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\obj\Debug\net6.0-windows\XO_perceptron.csproj.GenerateResource.cache
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\obj\Debug\net6.0-windows\XO_perceptron.GeneratedMSBuildEditorConfig.editorconfig
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\obj\Debug\net6.0-windows\XO_perceptron.AssemblyInfoInputs.cache
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\obj\Debug\net6.0-windows\XO_perceptron.AssemblyInfo.cs
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\obj\Debug\net6.0-windows\XO_perceptron.csproj.CoreCompileInputs.cache
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\obj\Debug\net6.0-windows\XO_perceptron.dll
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\obj\Debug\net6.0-windows\refint\XO_perceptron.dll
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\obj\Debug\net6.0-windows\XO_perceptron.pdb
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\obj\Debug\net6.0-windows\XO_perceptron.genruntimeconfig.cache
+Z:\UN\Computational Intelligence\XO_perceptron\XO_perceptron\obj\Debug\net6.0-windows\ref\XO_perceptron.dll

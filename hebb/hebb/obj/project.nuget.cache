@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CjAZaOV5f8VADkvzbwV8A3Oj0hme76HVYF83xlwLVKfAso7VUFnpeo5QFzpSc6mU83zJsU+/NI8IXmer2Tmscw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ali\\Desktop\\Computational Intelligence\\hebb\\hebb\\hebb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\scottplot\\4.1.68\\scottplot.4.1.68.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\scottplot.winforms\\4.1.68\\scottplot.winforms.4.1.68.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\scottplot.wpf\\4.1.68\\scottplot.wpf.4.1.68.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
