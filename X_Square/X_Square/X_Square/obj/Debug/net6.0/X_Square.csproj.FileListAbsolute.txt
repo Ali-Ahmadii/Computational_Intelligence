@@ -1,0 +1,15 @@
+Z:\UN\Computational Intelligence\X_Square\X_Square\X_Square\obj\Debug\net6.0\X_Square.csproj.AssemblyReference.cache
+Z:\UN\Computational Intelligence\X_Square\X_Square\X_Square\obj\Debug\net6.0\X_Square.GeneratedMSBuildEditorConfig.editorconfig
+Z:\UN\Computational Intelligence\X_Square\X_Square\X_Square\obj\Debug\net6.0\X_Square.AssemblyInfoInputs.cache
+Z:\UN\Computational Intelligence\X_Square\X_Square\X_Square\obj\Debug\net6.0\X_Square.AssemblyInfo.cs
+Z:\UN\Computational Intelligence\X_Square\X_Square\X_Square\obj\Debug\net6.0\X_Square.csproj.CoreCompileInputs.cache
+Z:\UN\Computational Intelligence\X_Square\X_Square\X_Square\bin\Debug\net6.0\X_Square.exe
+Z:\UN\Computational Intelligence\X_Square\X_Square\X_Square\bin\Debug\net6.0\X_Square.deps.json
+Z:\UN\Computational Intelligence\X_Square\X_Square\X_Square\bin\Debug\net6.0\X_Square.runtimeconfig.json
+Z:\UN\Computational Intelligence\X_Square\X_Square\X_Square\bin\Debug\net6.0\X_Square.dll
+Z:\UN\Computational Intelligence\X_Square\X_Square\X_Square\bin\Debug\net6.0\X_Square.pdb
+Z:\UN\Computational Intelligence\X_Square\X_Square\X_Square\obj\Debug\net6.0\X_Square.dll
+Z:\UN\Computational Intelligence\X_Square\X_Square\X_Square\obj\Debug\net6.0\refint\X_Square.dll
+Z:\UN\Computational Intelligence\X_Square\X_Square\X_Square\obj\Debug\net6.0\X_Square.pdb
+Z:\UN\Computational Intelligence\X_Square\X_Square\X_Square\obj\Debug\net6.0\X_Square.genruntimeconfig.cache
+Z:\UN\Computational Intelligence\X_Square\X_Square\X_Square\obj\Debug\net6.0\ref\X_Square.dll

@@ -1,0 +1,17 @@
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\bin\Debug\net6.0-windows\XO_ADALINE.exe
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\bin\Debug\net6.0-windows\XO_ADALINE.deps.json
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\bin\Debug\net6.0-windows\XO_ADALINE.runtimeconfig.json
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\bin\Debug\net6.0-windows\XO_ADALINE.dll
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\bin\Debug\net6.0-windows\XO_ADALINE.pdb
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\obj\Debug\net6.0-windows\XO_ADALINE.csproj.AssemblyReference.cache
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\obj\Debug\net6.0-windows\XO_ADALINE.Form1.resources
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\obj\Debug\net6.0-windows\XO_ADALINE.csproj.GenerateResource.cache
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\obj\Debug\net6.0-windows\XO_ADALINE.GeneratedMSBuildEditorConfig.editorconfig
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\obj\Debug\net6.0-windows\XO_ADALINE.AssemblyInfoInputs.cache
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\obj\Debug\net6.0-windows\XO_ADALINE.AssemblyInfo.cs
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\obj\Debug\net6.0-windows\XO_ADALINE.csproj.CoreCompileInputs.cache
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\obj\Debug\net6.0-windows\XO_ADALINE.dll
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\obj\Debug\net6.0-windows\refint\XO_ADALINE.dll
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\obj\Debug\net6.0-windows\XO_ADALINE.pdb
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\obj\Debug\net6.0-windows\XO_ADALINE.genruntimeconfig.cache
+Z:\UN\Computational Intelligence\XO_ADALINE\XO_ADALINE\obj\Debug\net6.0-windows\ref\XO_ADALINE.dll

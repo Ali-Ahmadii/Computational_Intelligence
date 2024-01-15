@@ -1,0 +1,15 @@
+Z:\UN\Computational Intelligence\Eight_Queen\Eight_Queen\Eight_Queen\obj\Debug\net6.0\Eight_Queen.csproj.AssemblyReference.cache
+Z:\UN\Computational Intelligence\Eight_Queen\Eight_Queen\Eight_Queen\obj\Debug\net6.0\Eight_Queen.GeneratedMSBuildEditorConfig.editorconfig
+Z:\UN\Computational Intelligence\Eight_Queen\Eight_Queen\Eight_Queen\obj\Debug\net6.0\Eight_Queen.AssemblyInfoInputs.cache
+Z:\UN\Computational Intelligence\Eight_Queen\Eight_Queen\Eight_Queen\obj\Debug\net6.0\Eight_Queen.AssemblyInfo.cs
+Z:\UN\Computational Intelligence\Eight_Queen\Eight_Queen\Eight_Queen\obj\Debug\net6.0\Eight_Queen.csproj.CoreCompileInputs.cache
+Z:\UN\Computational Intelligence\Eight_Queen\Eight_Queen\Eight_Queen\bin\Debug\net6.0\Eight_Queen.exe
+Z:\UN\Computational Intelligence\Eight_Queen\Eight_Queen\Eight_Queen\bin\Debug\net6.0\Eight_Queen.deps.json
+Z:\UN\Computational Intelligence\Eight_Queen\Eight_Queen\Eight_Queen\bin\Debug\net6.0\Eight_Queen.runtimeconfig.json
+Z:\UN\Computational Intelligence\Eight_Queen\Eight_Queen\Eight_Queen\bin\Debug\net6.0\Eight_Queen.dll
+Z:\UN\Computational Intelligence\Eight_Queen\Eight_Queen\Eight_Queen\bin\Debug\net6.0\Eight_Queen.pdb
+Z:\UN\Computational Intelligence\Eight_Queen\Eight_Queen\Eight_Queen\obj\Debug\net6.0\Eight_Queen.dll
+Z:\UN\Computational Intelligence\Eight_Queen\Eight_Queen\Eight_Queen\obj\Debug\net6.0\refint\Eight_Queen.dll
+Z:\UN\Computational Intelligence\Eight_Queen\Eight_Queen\Eight_Queen\obj\Debug\net6.0\Eight_Queen.pdb
+Z:\UN\Computational Intelligence\Eight_Queen\Eight_Queen\Eight_Queen\obj\Debug\net6.0\Eight_Queen.genruntimeconfig.cache
+Z:\UN\Computational Intelligence\Eight_Queen\Eight_Queen\Eight_Queen\obj\Debug\net6.0\ref\Eight_Queen.dll

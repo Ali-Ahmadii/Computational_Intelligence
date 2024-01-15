@@ -1,0 +1,17 @@
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\bin\Debug\net6.0-windows\XO_MCP.exe
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\bin\Debug\net6.0-windows\XO_MCP.deps.json
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\bin\Debug\net6.0-windows\XO_MCP.runtimeconfig.json
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\bin\Debug\net6.0-windows\XO_MCP.dll
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\bin\Debug\net6.0-windows\XO_MCP.pdb
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\obj\Debug\net6.0-windows\XO_MCP.csproj.AssemblyReference.cache
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\obj\Debug\net6.0-windows\XO_MCP.Form1.resources
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\obj\Debug\net6.0-windows\XO_MCP.csproj.GenerateResource.cache
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\obj\Debug\net6.0-windows\XO_MCP.GeneratedMSBuildEditorConfig.editorconfig
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\obj\Debug\net6.0-windows\XO_MCP.AssemblyInfoInputs.cache
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\obj\Debug\net6.0-windows\XO_MCP.AssemblyInfo.cs
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\obj\Debug\net6.0-windows\XO_MCP.csproj.CoreCompileInputs.cache
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\obj\Debug\net6.0-windows\XO_MCP.dll
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\obj\Debug\net6.0-windows\refint\XO_MCP.dll
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\obj\Debug\net6.0-windows\XO_MCP.pdb
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\obj\Debug\net6.0-windows\XO_MCP.genruntimeconfig.cache
+Z:\UN\Computational Intelligence\XO_MCP\XO_MCP\XO_MCP\obj\Debug\net6.0-windows\ref\XO_MCP.dll

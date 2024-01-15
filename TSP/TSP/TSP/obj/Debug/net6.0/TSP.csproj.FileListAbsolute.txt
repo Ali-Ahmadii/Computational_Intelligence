@@ -1,0 +1,15 @@
+Z:\UN\Computational Intelligence\TSP\TSP\TSP\bin\Debug\net6.0\TSP.exe
+Z:\UN\Computational Intelligence\TSP\TSP\TSP\bin\Debug\net6.0\TSP.deps.json
+Z:\UN\Computational Intelligence\TSP\TSP\TSP\bin\Debug\net6.0\TSP.runtimeconfig.json
+Z:\UN\Computational Intelligence\TSP\TSP\TSP\bin\Debug\net6.0\TSP.dll
+Z:\UN\Computational Intelligence\TSP\TSP\TSP\bin\Debug\net6.0\TSP.pdb
+Z:\UN\Computational Intelligence\TSP\TSP\TSP\obj\Debug\net6.0\TSP.csproj.AssemblyReference.cache
+Z:\UN\Computational Intelligence\TSP\TSP\TSP\obj\Debug\net6.0\TSP.GeneratedMSBuildEditorConfig.editorconfig
+Z:\UN\Computational Intelligence\TSP\TSP\TSP\obj\Debug\net6.0\TSP.AssemblyInfoInputs.cache
+Z:\UN\Computational Intelligence\TSP\TSP\TSP\obj\Debug\net6.0\TSP.AssemblyInfo.cs
+Z:\UN\Computational Intelligence\TSP\TSP\TSP\obj\Debug\net6.0\TSP.csproj.CoreCompileInputs.cache
+Z:\UN\Computational Intelligence\TSP\TSP\TSP\obj\Debug\net6.0\TSP.dll
+Z:\UN\Computational Intelligence\TSP\TSP\TSP\obj\Debug\net6.0\refint\TSP.dll
+Z:\UN\Computational Intelligence\TSP\TSP\TSP\obj\Debug\net6.0\TSP.pdb
+Z:\UN\Computational Intelligence\TSP\TSP\TSP\obj\Debug\net6.0\TSP.genruntimeconfig.cache
+Z:\UN\Computational Intelligence\TSP\TSP\TSP\obj\Debug\net6.0\ref\TSP.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Eight_Queen/1.0.0": {
+        "runtime": {
+          "Eight_Queen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eight_Queen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
